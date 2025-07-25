@@ -28,6 +28,10 @@ For `Timing Method`, I recommend using `Current Timing Method`.
 - Trap timers
 - Error Trackers
 
+## Unexpected behaviour
+> [!WARNING]
+> ### Reset Timer behaviour
+> The reset timer may initially display an abnormally high value, in the 1000+ hours, at the start of a game. This issue resolves itself over time, and the timer will display correctly the longer you remain in a session. This is still being looked into.
 
 ## Known Issues
 > [!CAUTION]
