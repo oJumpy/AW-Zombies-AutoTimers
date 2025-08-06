@@ -1,11 +1,11 @@
 # AW-Zombies-AutoTimers
 A multi-functional LiveSplit script for Call of Duty: Advanced Warfare Zombies. 
 
-# [Download v1.2](https://github.com/oJumpy/AW-Zombies-AutoTimers/releases/download/v1.2/AW.v1.2.asl)
+# [Download v1.3](https://github.com/oJumpy/AW-Zombies-AutoTimers/releases/download/v1.3/AW.v1.3.asl)
 
 ## Setup
 1. Download Livesplit [Site](https://livesplit.org/downloads/) or [Direct Link](https://github.com/LiveSplit/LiveSplit/releases/download/1.8.33/LiveSplit_1.8.33.zip)
-1. Right Click LiveSplit → Edit Layout → `+` button → Control → Scriptable Auto Splitter → Browse to `AW.v1.2.asl` and select it.
+1. Right Click LiveSplit → Edit Layout → `+` button → Control → Scriptable Auto Splitter → Browse to `AW.v1.3.asl` and select it.
 1. If you want splits, refer to [Setting up Splits](#setting-up-splits) at this point.
 1. Right Click LiveSplit → Compare Against → Select `Game Time`, Look down to where it says: *Best Segments*, *Average Segments*...
 1. If you are using S1X Client. Make sure that you have the .exe named to just `s1x` in order to make the timer work!
